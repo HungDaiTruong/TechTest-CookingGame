@@ -5,6 +5,29 @@ TagManager:
   serializedVersion: 2
   tags:
   - Hand
+  - RawPatty
+  - RawPattyCooking
+  - RawBacon
+  - RawBaconCooking
+  - Plate
+  - CookedBacon
+  - Ketchup
+  - Mustard
+  - Emmental
+  - Bag
+  - Knife
+  - EmptySlot
+  - Bottom
+  - Top
+  - CookedPatty
+  - American
+  - Lettuce
+  - Tomato
+  - Right
+  - Middle
+  - Left
+  - LeftHand
+  - RightHand
   layers:
   - Default
   - TransparentFX
