@@ -9,13 +9,13 @@ public class BurgerOrders : MonoBehaviour
 
     // Premade orders, disable or enable as fit
 
-    protected static string[] leftClientOrder = new string[12] { "KB", "PL", "BB", "CP", "AC", "TB", "OO", "OO", "OO", "OO", "OO", "OO" };
-/*    protected static string[] middleClientOrder = new string[12] { "MB", "PL", "BB", "LS", "CP", "AC", "TS", "TB", "OO", "OO", "OO", "OO" };
-    protected static string[] rightClientOrder = new string[12] { "CB", "PL", "BB", "LS", "CP", "AC", "TS", "BB", "LS", "CP", "AC", "TB" };
+    protected static string[] leftClientOrder = new string[12] { "KB", "PL", "BB", "CP", "AC", "TB", "OO", "OO", "OO", "OO", "OO", "OO" }; // Cheese burger and ketchup
+    protected static string[] middleClientOrder = new string[12] { "MB", "PL", "BB", "LS", "CP", "AC", "TS", "TB", "OO", "OO", "OO", "OO" }; // Deluxe burger and mustard
+    protected static string[] rightClientOrder = new string[12] { "CB", "PL", "BB", "LS", "CP", "AC", "TS", "BB", "LS", "CP", "AC", "TB" }; // Double deluxe burger and cooked bacon
 
-    protected static string[] leftClientOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };*/
+/*    protected static string[] leftClientOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };
     protected static string[] middleClientOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };
-    protected static string[] rightClientOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };
+    protected static string[] rightClientOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };*/
 
     protected static string[] leftBurgerOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };
     protected static string[] middleBurgerOrder = new string[12] { "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO", "OO" };
